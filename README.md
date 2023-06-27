@@ -1,1 +1,1 @@
-# Testando o Visual Studio Code!
+## Trabalhando com Git e GitHub no VS Code para gerenciar repositórios.
